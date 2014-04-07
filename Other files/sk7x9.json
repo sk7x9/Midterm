@@ -1,0 +1,11 @@
+[
+{"id":"Billing statement","title":"Creditcard"},
+{"id":"Loan modification","title":"Mortgage"},
+{"id":"APR or interest","title":"Credit card"},
+{"id":"Balance transfer","title":"Credit card"},
+{"id":"Application","title": "Mortgage"},
+{"id":"Credit card protection / Debt protection","title":"Credit card"},
+{"id":"Transaction issue","title":"Credit card"},
+{"id":"Other","title":"Money transfers"},
+{"id":"Credit reporting","title":"Credit reporting"},
+{"id":"Other fee","title":"Credit card"}]

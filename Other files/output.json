@@ -1,0 +1,22 @@
+Number of labels: 8
+Number of documents in training set: 208473
+Compliant: 2138	Billing statement
+  Bank account or service: -134.19803345180563  Consumer loan: -119.6326983938512  Credit card: -39.566902092688395  Credit reporting: -139.3411927381058  Debt collection: -137.45136606284223  Money transfers: -105.4328220409645  Mortgage: -143.03109405747807  Student loan: -126.8880609232277 => Credit card
+Compliant: 2377	"Loan modification
+  Bank account or service: -51.21396570186571  Consumer loan: -30.309368411490663  Credit card: -52.65831469596575  Credit reporting: -53.17674843804049  Debt collection: -52.455534303675556  Money transfers: -40.236304459677726  Mortgage: -5.212978567142047  Student loan: -31.80239189624581 => Mortgage
+Compliant: 2380	APR or interest rate
+  Bank account or service: -194.51896144279738  Consumer loan: -173.40662636854935  Credit card: -52.820027421635274  Credit reporting: -201.9739291287827  Debt collection: -199.23464068525132  Money transfers: -152.82402072424517  Mortgage: -207.32241117437445  Student loan: -183.92321553013454 => Credit card
+Compliant: 2154	Balance transfer
+  Bank account or service: -174.6375510681616  Consumer loan: -155.68306731321223  Credit card: -69.8348300821153  Credit reporting: -181.3305607897646  Debt collection: -178.87124976990643  Money transfers: -137.20417035806864  Mortgage: -186.13238473251093  Student loan: -165.12477604508462 => Credit card
+Compliant: 2382	"Application
+  Bank account or service: -54.02015922712374  Consumer loan: -48.15702026160621  Credit card: -27.557179323574264  Credit reporting: -56.090489741141106  Debt collection: -55.329757744676584  Money transfers: -42.44099326882701  Mortgage: -12.241602051632116  Student loan: -51.07759837297013 => Mortgage
+Compliant: 2042	Credit card protection / Debt protection
+  Bank account or service: -206.77050564978757  Consumer loan: -203.89824157345348  Credit card: -78.0711310293112  Credit reporting: -160.08601520711696  Debt collection: -214.29223287449753  Money transfers: -197.12305613436317  Mortgage: -241.44684934083736  Student loan: -237.2369616212266 => Credit card
+Compliant: 2034	Transaction issue
+  Bank account or service: -158.93882988605037  Consumer loan: -141.68822455701678  Credit card: -56.65375673483335  Credit reporting: -165.03018381915922  Debt collection: -162.7919480363546  Money transfers: -79.42541987674723  Mortgage: -169.40035663772468  Student loan: -150.28118826264614 => Credit card
+Compliant: 71689	Other
+  Bank account or service: -56.118515316412996  Consumer loan: -50.027628903893024  Credit card: -15.083692577722417  Credit reporting: -58.269265634871594  Debt collection: -57.47898380664172  Money transfers: -11.694145082064047  Mortgage: -17.300822538601334  Student loan: -53.061653790533164 => Money transfers
+Compliant: 2043	Credit reporting
+  Bank account or service: -95.41685391597257  Consumer loan: -65.28698640522624  Credit card: -29.272062603073337  Credit reporting: -20.23454693820544  Debt collection: -97.73002315178577  Money transfers: -74.9643487305222  Mortgage: -75.72527203325072  Student loan: -90.21935166539313 => Credit reporting
+Compliant: 2044	Other fee
+  Bank account or service: -122.69622343889301  Consumer loan: -109.3792503151779  Credit card: -33.669302516962134  Credit reporting: -127.39857417192616  Debt collection: -125.67072026792543  Money transfers: -64.00098946584265  Mortgage: -88.26074786431509  Student loan: -116.01277212721138 => Credit card

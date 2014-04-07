@@ -1,0 +1,38 @@
+
+<title>Revive</title>
+</head>
+<body>
+<p>  <h1>
+        <centre>classify the products complaints</centre>
+    </h1></p>
+  
+  
+    <form id="product Details" name="Product Details">
+      <label>Enter the Product:</label>
+      <select id="Genre">
+        <option value="select the product">Select the product</option>
+  <option value="Bank-Account">Bank Account</option>
+  <option value="Bank-Service">Bank Service</option>
+  <option value="Complaint">Complaint</option>
+  <option value="Consumer">Consumer</option>
+  <option value="Credit-Card">Credit Card</option>
+  <option value="Credit-Report">Credit Report</option>
+  <option value="Debt-Collection">Debt Collection </option>
+  <option value="finance">finance</option>
+  <option value="Loan">Loan</option>
+  <option value="Money-Transfer">Money Transfer</option>
+  <option value="Mortgage">Mortgage</option>
+  <option value="Student-loan">Student Loan</option>
+</select>
+<button id="search">Search</button>
+        <br />
+     
+</form>
+<p>Problems with the product</p>
+
+    <h6>Transaction Issue</h6>
+    <h6>Balance Transfer</h6>
+    <h6>Billing Statement</h6>
+    <h6>Others</h6>
+            
+            
